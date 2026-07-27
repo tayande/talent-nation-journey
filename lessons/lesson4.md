@@ -22,6 +22,7 @@ $ cat daily_log.txt
 Starting the kitchen machine...
 Grinding espresso beans...
 ```
+There is something about this redirecting of output that needs to be taken note of which is: When you use the overwrite ">" sign to redirect output into a file, if that file was having any thing or any content at all before a certain output is redirected to it, such a content would be replaced by the new one entirely. But when you use the append ">>" sign to redirect output into a file, such an output would only be added to the original content of the file if the file was not empty before the redirection. 
 ### Step 5: Exit Status — Success or Failure?
 Every time a program finishes executing, it returns a integer value to the operating system called an Exit Status (or exit code):
 
