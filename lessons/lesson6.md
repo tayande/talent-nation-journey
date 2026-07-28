@@ -20,4 +20,4 @@ is_caffeinated = True
 ```
 ### Step 3: Checking Types with type()
 If you ever lose track of what type of ingredient is inside a jar, you can use Python's built-in type() function to scan the container.
-
+*** quick round up *** When they say a language is dynamically typed, we mean that when declaring a variable in that language, you don't necessarily need to define it's type while for a language that is statically typed, you must explicitly define the type of the value you are storing in a variable at the declaration point. Static typing helps by catching errors or mistakes before the program runs. Python is dynamically typed.
