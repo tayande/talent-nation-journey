@@ -1,5 +1,6 @@
 ## LESSON 6.1: VARIABLES AND PRIMITIVE TYPES
-In programming, variables work like a labelled storage jar with a certain content. The computer memory is a large digital countertop, if you do not store your stuff in a labelled container, you would not know how to access them when you need them, and you would definitely loose track of them. *** A variable *** is a labeled container in the computer's memory used to store a specific piece of information.
+In programming, variables work like a labelled storage jar with a certain content. The computer memory is a large digital countertop, if you do not store your stuff in a labelled container, you would not know how to access them when you need them, and you would definitely loose track of them. *** A variable *** is a labeled container in the computer's memory used to store a specific piece of information. But also, for the computer to be able to understand what a value is, it needs to identify what data type is that value. 
+*** Data type *** tells the computer what kind of value something is.
 ### Step 1: Creating Variables and Assignment
 To create a variable in Python, you write the container's label on the left, use the assignment operator (=), and put the contents on the right. 
 ### Step 2: The Four Primitive Types
