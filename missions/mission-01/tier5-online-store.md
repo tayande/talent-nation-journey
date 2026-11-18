@@ -1,4 +1,4 @@
-## tier 5 work
+## Tier 5 work
 ### The completed chain is:
 customer input --> application/program --> instructions --> data processing --> stored data --> result
 ### What is the computer doing?
