@@ -1,0 +1,82 @@
+## literal steps for preparing boiled eggs 
+- open the kitchen door
+- enter the kitchen
+- approach the table which also has plate shelf on it.
+- collect a clean plate with right hand
+- approach the fridge with the plate in right hand
+- open the fridge with left hand
+- on the second shelf of the fridge, remove three eggs from the egg crate with left hand and put them in the plate which is held in right hand.
+- close the fridge with left hand
+- go back to the table that also has plate shelf on it.
+- place the plate of eggs on the table.
+- remove a rubber bowl from the plate shelf which is on the same table as the plate of eggs.
+- remove the eggs from the plate and put inside the rubber bowl one after the other.
+- approach the sink with the bowl in right hand and the plate of eggs in left hand.
+- put the rubber bowl of eggs in the sink, while the plate is on the other side of the sink.
+- turn on the water and place the rubber bowl of eggs under the tap.
+- wait until the water is exactly 500 ml since there is graduation on the rubber
+- turn off the water 
+- remove all three eggs from the plate and put them into the rubber one by one.
+- use fingers on both hands to clean each egg in the water gently and carefully by rubbing the shell with fingertips without squeezing for 2 minutes and put them in the plate
+- repeat the washing of each egg for 2 minutes until all three eggs are washed and kept in the clean plate with both hands on the other side of the sink.
+- empty the rubber bowl of the water into the sink with both hands
+- take empty rubber bowl with left hand and the plate (now containing three clean eggs) with right hand to the table containing plate shelf on which there is also electric cooker.
+- place both the rubber and the plate of eggs on that table.
+- take a clean pot from the plate shelf on the same table with right hand and place it on the table, leaving its cover on the shelf.
+- approach the sink one more time while holding the rubber bowl in right hand 
+- hold the rubber bowl directly under the tap mouth with right hand 
+- turn on the water with left hand.
+- collect 500ml of water 
+- turn off the tap with left hand
+- come back with the rubber bowl of water in right hand to the table that now has both the pot and the plate of eggs.
+- with both hands, turn the water from the rubber bowl into the pot which is already on the table
+- place the rubber bowl on the table with right hand.
+- remove all three eggs from the plate and put them in the pot one after the other with right hand.
+- take the pot's cover from the plate shelf with right hand and cover the pot 
+- approach the socket wall just beside the table
+- grab the electric cooker's cable on the table with right hand.
+- plug it into the wall socket just beside the table with right hand
+- switch the socket on with left hand 
+- turn on the electric cooker with right hand and keep it on it's medium level based on the graduation that exists on the cooker.
+- put the pot of eggs on the cooker with both hands
+- allow it to boil for 15 minutes counting from when the pot is placed on the cooker.
+- turn off the cooker with right hand.
+- approach the wall socket and turn off the socket with left hand 
+- remove the cooker's cable from wall socket with right hand
+- come back to the table and take down the pot of eggs with both hands holding the pot by its handles. (the pot is not the type that conducts heat that much so the handles are not hot)
+- open the cover of the pot with right hand
+- wait for 1 minute for the steam to reduce
+- hold the pot in right hand and the plate with left hand and take them to the sink.
+- place the plate on the other side of the sink while the pot goes into the sink
+- turn on the tap water with left hand and place the pot under the tap to collect water.
+- collect 1 liter of water into the pot
+- turn off the water with left hand 
+- wait for 3 minutes so that the hotness of the eggs will reduce
+- remove the eggs from the pot and put it in the plate with right hand one after the other 
+- empty the pot into the sink with both hands
+- take the plate of eggs under the tap's outlet with right hand
+- turn on the tap with left hand
+- collect 400ml of water into the plate.
+- turn off the water tap
+- take the plate of eggs (now with water also) with right hand and the pot with left hand back to the table
+- place both the plate of eggs and the pot on the table.
+- wait for 2 minutes for the eggs to cool down again
+- take a another clean plate from the shelf on the same table and place it beside the plate with eggs with right hand.
+- take one egg from plate 1, tap it on the table to crack it, then pull its shell off with both hands, while putting the shells in the empty rubber bowl and putting the pealed egg in  plate 2 on the same table.
+- repeat the removal of shell until all three eggs are without shells, and all in plate 2 on the table.
+- with right hand, grab the rubber with egg shells on the table and empty it in the waste bin which is right under the table.
+- take the plate (plate 2) of peeled eggs to the dinning room
+- place the plate on the dining table.
+- the cooking of three boiled eggs is done.
+
+## Then the reasoning part:
+### These are the assumptions i had to make on my own before i got corrected:
+- First was to decide which breakfast to make, the meal i would make as breakfast
+- after knowing it's eggs, i would assume that it is already in the fridge somewhere. 
+- i would not need to be told to open up the fridge i already know that i have to open it and get the eggs from there.
+- i also know already that i need to wash the eggs first and the washing would be proper and clean
+- i know the exact quantity of water to add in the cooking pot before i cook my eggs.
+- i know how many minutes the eggs are going to boil for 
+- i also know the rate i would set the electric gas that would make sure the eggs are well prepared.
+- i already assumed that the cooker needs plugging before turning on
+- i already knew where things were kept, like the shelf
